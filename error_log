@@ -1,0 +1,2 @@
+[30-Jun-2019 10:31:08 America/Chicago] PHP Warning:  mysqli::__construct(): (28000/1045): Access denied for user 'qlicue_admins'@'localhost' (using password: YES) in /home2/qlicue/neatlux.co.tz/db_test.php on line 8
+[30-Jun-2019 13:21:55 America/Chicago] PHP Warning:  mysqli::__construct(): (42000/1044): Access denied for user 'qlicue_admin'@'localhost' to database 'qlicue_neatlux_products' in /home2/qlicue/neatlux.co.tz/db_test.php on line 8
